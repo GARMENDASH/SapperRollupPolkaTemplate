@@ -33,10 +33,11 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Sapper | Vercel</title>
 </svelte:head>
 
 <h1>Great success!</h1>
+<h2>Vercel static here</h2>
 
 <figure>
 	<img alt='Success Kid' src='successkid.jpg'>
