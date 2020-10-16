@@ -30,6 +30,10 @@
 			font-size: 4em;
 		}
 	}
+	
+	h2{
+		text-align: center;
+	}
 </style>
 
 <svelte:head>
@@ -38,6 +42,7 @@
 
 <h1>Great success!</h1>
 <h2>Vercel static here</h2>
+<h2>Trying Vercel server now</h2>
 
 <figure>
 	<img alt='Success Kid' src='successkid.jpg'>
